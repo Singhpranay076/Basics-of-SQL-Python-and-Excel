@@ -1,4 +1,6 @@
-SELECT region,product_category, SUM(revenue) AS Total_reveneue
+-- Data is already stored in respective table after table creation and join tables using joins. 
+
+SELECT region,product_category, SUM(revenue) AS Total_reveneue    
 
 FROM supply_chain.orders AS a
 
