@@ -1,0 +1,13 @@
+Month,Actual_Demand,3MA_Forecast,ES_Forecast
+January,100,0.00,100.00
+February,110,0.00,100.00
+March,105,0.00,105.00
+April,130,105.00,105.00
+May,160,115.00,117.50
+June,200,131.67,138.75
+July,190,163.33,169.38
+August,170,183.33,179.69
+September,140,186.67,174.84
+October,120,166.67,157.42
+November,115,143.33,138.71
+December,125,125.00,126.86
