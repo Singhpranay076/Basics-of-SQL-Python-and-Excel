@@ -1,0 +1,11 @@
+SKU,Items,Annual_Revenue,% of Total Revenue,Cumulative %,Category
+SKU01,Beauty Products,20000.0,18.6,18.6,A
+SKU09,Laundry,18000.0,16.74,35.34,A
+SKU02,Personal Care,15000.0,13.95,49.29,A
+SKU03,Home Care,12000.0,11.16,60.45,A
+SKU07,Hair Care,12000.0,11.16,71.61,A
+SKU06,Baby Care,10000.0,9.3,80.91,B
+SKU04,Nutrition (Food),8000.0,7.44,88.35,B
+SKU08,Refreshments,7000.0,6.51,94.86,B
+SKU05,Ice Cream,5000.0,4.65,99.51,C
+SKU10,Packaging,500.0,0.47,99.98,C

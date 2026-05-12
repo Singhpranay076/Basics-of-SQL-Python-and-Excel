@@ -1,0 +1,101 @@
+order_id,product_id,region,revenue,product_category
+1,PRT08,Noida,4153,Beverages and Snacks
+2,PRT08,Jammu City,3850,Beverages and Snacks
+3,PRT08,Ahmedabad,1664,Beverages and Snacks
+4,PRT02,Gangtok,3981,Home Decor
+5,PRT04,Noida,2221,Home Appliances
+6,PRT08,Ahmedabad,4946,Beverages and Snacks
+7,PRT02,Bombay,4217,Home Decor
+8,PRT03,Panaji,2088,Electronics Gadgets
+9,PRT04,Gangtok,2477,Home Appliances
+10,PRT02,Panaji,2290,Home Decor
+11,PRT03,Ahmedabad,1201,Electronics Gadgets
+12,PRT08,Bombay,3304,Beverages and Snacks
+13,PRT04,New Delhi,1148,Home Appliances
+14,PRT07,New Delhi,3795,Sauces
+15,PRT10,Gangtok,4579,Fresh Vegetables
+16,PRT09,Hyderabad,2669,Kitchen Tools
+17,PRT03,Hyderabad,3219,Electronics Gadgets
+18,PRT10,Panaji,4610,Fresh Vegetables
+19,PRT03,Bombay,2827,Electronics Gadgets
+20,PRT04,Bombay,3406,Home Appliances
+21,PRT06,Jammu City,1434,Spices
+22,PRT04,Jammu City,3171,Home Appliances
+23,PRT10,Noida,2780,Fresh Vegetables
+24,PRT09,Ahmedabad,4662,Kitchen Tools
+25,PRT02,New Delhi,4394,Home Decor
+26,PRT04,Noida,4799,Home Appliances
+27,PRT08,Gangtok,3368,Beverages and Snacks
+28,PRT05,Hyderabad,1632,Furnitures
+29,PRT08,Ahmedabad,4641,Beverages and Snacks
+30,PRT04,Bombay,1362,Home Appliances
+31,PRT09,Gangtok,1539,Kitchen Tools
+32,PRT03,Ahmedabad,2178,Electronics Gadgets
+33,PRT06,Ahmedabad,4552,Spices
+34,PRT05,Chandigarh,3550,Furnitures
+35,PRT07,Chandigarh,1138,Sauces
+36,PRT06,Gangtok,4272,Spices
+37,PRT10,Jammu City,3767,Fresh Vegetables
+38,PRT01,Gangtok,4255,Plastic Toys
+39,PRT08,Noida,3065,Beverages and Snacks
+40,PRT04,New Delhi,4379,Home Appliances
+41,PRT08,Ahmedabad,2425,Beverages and Snacks
+42,PRT02,Chandigarh,3754,Home Decor
+43,PRT10,Panaji,4925,Fresh Vegetables
+44,PRT10,Hyderabad,1002,Fresh Vegetables
+45,PRT03,Hyderabad,2047,Electronics Gadgets
+46,PRT10,Hyderabad,4812,Fresh Vegetables
+47,PRT10,Lucknow,1239,Fresh Vegetables
+48,PRT01,Gangtok,3779,Plastic Toys
+49,PRT04,New Delhi,3581,Home Appliances
+50,PRT10,Chandigarh,3402,Fresh Vegetables
+51,PRT07,Noida,4686,Sauces
+52,PRT09,Ahmedabad,4447,Kitchen Tools
+53,PRT01,Panaji,4513,Plastic Toys
+54,PRT06,Bombay,4013,Spices
+55,PRT05,Chandigarh,3660,Furnitures
+56,PRT09,Ahmedabad,2891,Kitchen Tools
+57,PRT06,Panaji,1709,Spices
+58,PRT10,Lucknow,1630,Fresh Vegetables
+59,PRT05,Bombay,2968,Furnitures
+60,PRT05,Panaji,4475,Furnitures
+61,PRT03,Panaji,4599,Electronics Gadgets
+62,PRT06,Chandigarh,1554,Spices
+63,PRT02,Ahmedabad,4510,Home Decor
+64,PRT03,Panaji,1827,Electronics Gadgets
+65,PRT09,Noida,3145,Kitchen Tools
+66,PRT07,Noida,3889,Sauces
+67,PRT05,Lucknow,3752,Furnitures
+68,PRT04,Noida,1249,Home Appliances
+69,PRT04,Jammu City,4910,Home Appliances
+70,PRT06,Gangtok,2783,Spices
+71,PRT01,Panaji,3027,Plastic Toys
+72,PRT08,Panaji,3510,Beverages and Snacks
+73,PRT03,Panaji,4189,Electronics Gadgets
+74,PRT01,Bombay,3846,Plastic Toys
+75,PRT07,Lucknow,3718,Sauces
+76,PRT02,New Delhi,4235,Home Decor
+77,PRT09,Noida,3374,Kitchen Tools
+78,PRT04,Hyderabad,1595,Home Appliances
+79,PRT09,Jammu City,2012,Kitchen Tools
+80,PRT08,Bombay,3672,Beverages and Snacks
+81,PRT03,Jammu City,2191,Electronics Gadgets
+82,PRT05,New Delhi,4956,Furnitures
+83,PRT09,Gangtok,3676,Kitchen Tools
+84,PRT08,New Delhi,3198,Beverages and Snacks
+85,PRT05,Ahmedabad,3352,Furnitures
+86,PRT03,New Delhi,2620,Electronics Gadgets
+87,PRT06,Noida,1843,Spices
+88,PRT05,Gangtok,3716,Furnitures
+89,PRT09,Ahmedabad,4720,Kitchen Tools
+90,PRT08,Hyderabad,4127,Beverages and Snacks
+91,PRT04,Chandigarh,1037,Home Appliances
+92,PRT03,Jammu City,3802,Electronics Gadgets
+93,PRT03,Hyderabad,4875,Electronics Gadgets
+94,PRT10,Chandigarh,1264,Fresh Vegetables
+95,PRT02,Ahmedabad,3274,Home Decor
+96,PRT08,Panaji,1995,Beverages and Snacks
+97,PRT04,New Delhi,3873,Home Appliances
+98,PRT10,Ahmedabad,2426,Fresh Vegetables
+99,PRT03,New Delhi,3758,Electronics Gadgets
+100,PRT09,Bombay,4929,Kitchen Tools
